@@ -27,3 +27,7 @@ reference: https://www.ripe.net/participate/member-support/lir-basics/ipv6_refer
 
 
 
+## General
+
+* Appearing/disappearing interface (with address)
+* Appearing/disappearing address on interface
