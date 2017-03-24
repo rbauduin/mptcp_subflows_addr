@@ -31,3 +31,8 @@ reference: https://www.ripe.net/participate/member-support/lir-basics/ipv6_refer
 
 * Appearing/disappearing interface (with address)
 * Appearing/disappearing address on interface
+
+## Actions
+
+* Advertise new address to peers
+* Open subflow with new source address
